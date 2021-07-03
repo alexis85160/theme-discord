@@ -5,7 +5,7 @@ bonjour mes theme son gratuite mais je préfère être avertie en cas de reuplod
 préssiser son autheur vous aver tout a fais l'autorisation de modifier le fichier 
 néamoin le mieus est de réutiliser le fichier pour quelque chose de légale mercie C;
 
-les fichier css ne contient aucun code malveillant ou indesirable a votre ordinateur
+mes fichier css ne contient aucun code malveillant ou indesirable a votre ordinateur
 et votre discorde mes néamoin verifier toujoure la source du fichier avant installation
 et execution vous aite avertie je ne prent pas en charge les probleme d' execution
 sur votre ordinateur sauf en cas de probleme de fichier inutilisable
