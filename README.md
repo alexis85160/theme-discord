@@ -9,7 +9,7 @@ mes ficher css ne comptiene aucun code maveillant ou indesirable a votre ordinat
 et votre discorde mes néamoin verifier toujoure la source du fichier avant installation 
 et execution vous aite avertie je ne prent pas en charge les probleme d' execution sur
 votre ordinateur sauf en cas de probleme de fichier inutilisable voici les régle
-a respecter en utilisant mes fichier merci d' avoire lue le <README> <3
+a respecter en utilisant mes fichier merci d' avoire lue le README <3
 
 by Alexis_
 
