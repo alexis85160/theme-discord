@@ -1,4 +1,4 @@
-![galaxygen in urxvt](https://i.pinimg.com/564x/ba/ab/88/baab88d9be739825a106d5f0e6a0dc63.jpg)# 
+<img alt="GalackGen" src="https://i.pinimg.com/564x/ba/ab/88/baab88d9be739825a106d5f0e6a0dc63.jpg">
 # theme-discord
 bonjour mes theme son gratuite mais je préfère être avertie en cas de reuplode ou alore 
 préssiser son autheur vous aver tout a fais l'autorisation de modifier le fichier 
